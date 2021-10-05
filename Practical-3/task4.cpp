@@ -1,3 +1,4 @@
+//Task-4:How to resolve the problem of task-3? [Hint: by using, getline(cin, line);]
 #include <iostream>
 using namespace std;
 int main() {
